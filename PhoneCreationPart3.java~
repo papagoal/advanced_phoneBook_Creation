@@ -1,0 +1,3 @@
+public class PhoneCreationPart3{
+  private static int totalNUmbers;
+}
